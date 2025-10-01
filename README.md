@@ -1,4 +1,4 @@
-<p align="center"><img width=400 alt="BurpSeek" src="https://github.com/JoelGMSec/BurpSeek/blob/main/BurpSeek.png"></p>
+<p align="center"><img width=600 alt="BurpSeek" src="https://github.com/JoelGMSec/BurpSeek/blob/main/BurpSeek.png"></p>
 
 # BurpSeek
 
